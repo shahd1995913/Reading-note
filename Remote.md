@@ -12,8 +12,8 @@
 ![GitHub Logo](https://blog.udemy.com/wp-content/uploads/2015/08/image046.png)
 
 # Example: on Rebasing 
-1. $ git checkout test
-2. $ git rebase master
+1. checkout test
+2. git rebase master
 
 
 # Rebase vs. Merge
@@ -26,6 +26,6 @@ The true commit history of a repository should not be altered because it’s a r
 
 
 **Aliases**
-- [x] $ git config --global alias.br branch
-- [ ] $ git config --global alias.co commit
-- [ ] $ git config --global alias.st status
+- [x] global alias.br branch
+- [ ] global alias.co commit
+- [ ] global alias.st status
