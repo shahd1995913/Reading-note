@@ -11,7 +11,7 @@
 
 ~~Hallow peopla its my~~
 
-Type of PR | Done By
+Type of PR | Advanteges
 ------------ | -------------
 growth mindset | improved by determination
 growth mindset | improved by  work
