@@ -3,15 +3,15 @@
 
 ***I always Develop my skill and I think positively and I make all my effort for achievement.***
 
-# propriry for features of Markdown
-1. fast.
-2. Text is future-proof.
-3. fully portable.
+# propriry for features of growth mindsetgit
+1. intelligence.
+2. simply good .
+3. similar to a passion for knowledg.
 
 
 ~~Hallow peopla its my~~
 
-Type of PR | Advanteges
+Name  | Advanteges
 ------------ | -------------
 growth mindset | improved by determination
 growth mindset | improved by  work
