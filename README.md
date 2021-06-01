@@ -6,8 +6,8 @@ This For Read
 
 ~~Hallow peopla its my~~
 
-*My Name is Shahd Alkhatib*
-# about my sef information
+# My Name is Shahd Alkhatib study computer scine in yarmok university
+# i love programming languge
 
 This site was built using [Shahd Pages]( https://shahd1995913.github.io/reading-note/).
 Table contane link
@@ -16,5 +16,4 @@ class | linke
 ------------ | -------------
 1. | [Grothminde](Growthmindset)
 2. | [Summary](summarizes)
-
-
+3. | [Read3](read3)

@@ -13,5 +13,5 @@
 
 Type of PR | Done By
 ------------ | -------------
-C++ Language | differentkno
-C Language | wikimedia
+growth mindset | improved by determination
+growth mindset | improved by  work
