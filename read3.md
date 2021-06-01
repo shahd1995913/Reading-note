@@ -16,7 +16,7 @@
 
 ~~Wireframing~~
 
-best tools for wireframing | Done By
+best tools for wireframing | Usaing
 ------------ | -------------
 UXPin | UXPin has a wide range of functionalities, but one of the best ones is how it facilitates building responsive clickable prototypes directly in your browser.
 InVision | InVision allows you to get feedback straight from your team and users through clickable mock-ups of your site design.
