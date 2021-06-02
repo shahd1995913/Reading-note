@@ -17,3 +17,4 @@ class | linke
 1. | [Grothminde](Growthmindset)
 2. | [Summary](summarizes)
 3. | [Read3](read3)
+4. | [NewSummary](NewSummary)
