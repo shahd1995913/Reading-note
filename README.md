@@ -18,3 +18,5 @@ class | linke
 2. | [Summary](summarizes)
 3. | [Read3](read3)
 4. | [NewSummary](NewSummary)
+5. | [CSScolor](CSScolor)
+6. | [Loops](Loops)
