@@ -20,3 +20,4 @@ class | linke
 4. | [NewSummary](NewSummary)
 5. | [CSScolor](CSScolor)
 6. | [Loops](Loops)
+7. | [Functions](Functions)

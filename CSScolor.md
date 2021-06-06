@@ -18,11 +18,12 @@
 ![GitHub image](result.png)
 
 # different type of color in CSS
+
 Code | The color result after applay the code
------|----------------------------
-color: hsl(89, 43%, 51%); | Green
-color: rgba(201, 76, 76, 0.6); | pink
-color: rgb(201, 76, 76); | Red 
+------------------------------|--------------------
+color:hsl(89, 43%, 51%);      | Green
+color:rgba(201, 76, 76, 0.6); | pink
+color:rgb(201, 76, 76);       | Red 
 
 
 
