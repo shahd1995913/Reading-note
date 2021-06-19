@@ -14,7 +14,7 @@
 
 
 
-Class Number  | Describtions
+Class Number  |  linke
 ------------ | -------------
 class 1      |
 class 2      |
