@@ -1,4 +1,4 @@
-# Code 102 Reading Notes
+# Code 201 Reading Notes
 ## The Class number 2 
 
 **Welecm to the first page created**
@@ -14,7 +14,7 @@
 
 
 
-Class Number  | Describtions
+Class Number  |  linke
 ------------ | -------------
 class 1      |
 class 2      |
