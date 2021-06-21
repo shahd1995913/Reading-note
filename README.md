@@ -23,3 +23,4 @@ class | linke
 7. | [Functions](Functions)
 8. | [Code201](Code201)
 9. | [class-01](class-01) 
+10. | [class-02](class-02) 
