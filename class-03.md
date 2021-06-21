@@ -71,13 +71,15 @@ false
 
 -------------------------------------------------------
 # Difference between IF .. ELSE and the  SWITCH
-IF .. ELSE  | SWITCH
------------- | -------------
-There is no need to provide an else option. (You can just use an if statement.)|You have a default option that is run if none of the cases match.
-With a series of if statements, they are all checked even if a match has been found (so it performs more slowly than switch)| If a match is found, that code is run; then the break statement stops the rest of the switch statement running (providing better performance than multiple if statements).
+## IF .. ELSE 
+1. There is no need to provide an else option ,You can just use an if statement.
+2. With a series of if statements, they are all checked even if a match has been found 
+3.  performs more slowly than switch
 
-
-
+##  SWITCH
+1. You have a default option that is run if none of the cases match.
+2. If a match is found, that code is run; then the break statement stops the rest of the switch statement running 
+3. providing better performance than multiple if statements.
 
 
 
