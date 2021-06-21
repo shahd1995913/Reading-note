@@ -47,7 +47,7 @@
 ![Javascriptexample3 image](example2.png)
 
 ### In this example, a user is taking a test, and the script tells the user whether they have passed this round of the test.
-** The example starts by setting two variables:**
+***The example starts by setting two variables:***
 
 -  pass to hold the pass mark
 -  score to hold the users score
