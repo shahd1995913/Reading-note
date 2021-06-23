@@ -25,5 +25,9 @@ class | link
 9. | [class-01](class-01) 
 10. | [class-02](class-02) 
 11. | [class-03](class-03) 
+<<<<<<< HEAD
 12. | [class-04](class-04) 
 12. | [class-05](class-05) 
+=======
+12. | [class-04](class-04) 
+>>>>>>> 57b44813b34a4fe27551be4a613a69d6a1189388
