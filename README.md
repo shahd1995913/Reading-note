@@ -26,4 +26,7 @@ class | link
 10. | [class-02](class-02) 
 11. | [class-03](class-03) 
 12. | [class-04](class-04) 
-12. | [class-05](class-05) 
+13. | [class-05](class-05) 
+14. | [class-06](class-06) 
+15. | [class-07](class-07)
+
