@@ -2,26 +2,33 @@
 # Duckett HTML 
 # Tables
 
+## Tables : The <table> element is used to create a table. The contents of the table are written out row by row.
 
-## To add an image into the page you need to use an <img> element. This is an empty element (which means there is no closing tag).
-
-## image element contain 
-1. src :  This tells the browser where
-it can fnd the image fle
-2. alt : This provides a text description
-of the image which describes the
-image if you cannot see it.
-3. title : provide additional information
-about the image. 
-
-## Below you can see the code for insert image in HTML with result.
+## Basic Table Sructure
+1. <tr> 
+- You indicate the start of each row using the opening <tr> tag.
+(The tr stands for table row.)
+It is followed by one or more
+<td> elements (one for each cell
+in that row).
+At the end of the row you use a
+closing </tr> tag.
 
 
-![Image image](Image.png)
+2. <td>
+- Each cell of a table is
+represented using a <td>
+element. (The td stands for
+table data.)
+At the end of each cell you use a
+closing </td> tag.
 
 
 
+## Below you can see the code for create a  table in HTML with result.
 
+
+![table image](Table.png)
 
 
 # Duckett JS Book:
