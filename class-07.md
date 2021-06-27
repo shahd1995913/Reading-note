@@ -5,25 +5,8 @@
 ## Tables : The <table> element is used to create a table. The contents of the table are written out row by row.
 
 ## Basic Table Sructure
-1. <tr> 
-- You indicate the start of each row using the opening <tr> tag.
-(The tr stands for table row.)
-It is followed by one or more
-<td> elements (one for each cell
-in that row).
-At the end of the row you use a
-closing </tr> tag.
 
-
-2. <td>
-- Each cell of a table is
-represented using a <td>
-element. (The td stands for
-table data.)
-At the end of each cell you use a
-closing </td> tag.
-
-
+![table image](tt.png)
 
 ## Below you can see the code for create a  table in HTML with result.
 
