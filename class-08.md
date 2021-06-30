@@ -2,8 +2,8 @@
 # Duckett HTML 
 # Layout
 
-# NormalFow position:static
-***In normal fow, each block-level
+# Normal Flow position:static
+***In normal flow, each block-level
 element sits on top of the next
 one. Since this is the default
 way in which browsers treat
