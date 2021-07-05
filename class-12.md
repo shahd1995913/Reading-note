@@ -9,6 +9,7 @@
 2. Drawing a line chart
 - To draw a line chart, the first thing we need to do is create a canvas element in our HTML in which Chart.js can draw our chart. 
 
+
 3.  Creating a Chart
 - It's easy to get started with Chart.js. All that's required is the script included in your page along with a single canvas node to render the chart.
 
