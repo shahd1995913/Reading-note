@@ -34,5 +34,11 @@ class | link
 17. | [class-09](class-09)
 18. | [class-10](class-10)
 19. | [class-11](class-11)
+<<<<<<< HEAD
 20. | [class-12](class-12)
 21. | [class-13](class-13)
+=======
+=======
+17. | [class-09](class-09)
+>>>>>>> 1681d4ec75ce3ec635e667554459cbac08c42632
+>>>>>>> ff9f3114ab6eb3f1ce8ca2c5654ee4b13a4b2612
