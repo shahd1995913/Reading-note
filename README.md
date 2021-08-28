@@ -29,38 +29,35 @@ Table contane link
 
 
 
-
-
-
-
 # Code 201 - Foundations of Software Development
-class | link
------------- | -------------
-8. | [Code201](Code201)
-9. | [class-01](class-01) 
-10. | [class-02](class-02) 
-11. | [class-03](class-03) 
-12. | [class-04](class-04) 
-13. | [class-05](class-05) 
-14. | [class-06](class-06) 
-15. | [class-07](class-07)
-16. | [class-08](class-08)
-17. | [class-09](class-09)
-18. | [class-10](class-10)
-19. | [class-11](class-11)
-20. | [class-12](class-12)
-21. | [class-13](class-13)
-17. | [class-09](class-09)
+
+| class | link |
+| --- | --- |
+| 1.  | [Code201](Code201) |
+| 2.  | [class-01](class-01)  |
+| 3.  |  [class-02](class-02)  |
+| 4.  | [class-03](class-03)  |
+| 5.  | [class-04](class-04)  |
+| 6.  |[class-05](class-05)  |
+| 7.  | [class-06](class-06)  |
+| 8.  | [class-07](class-07) |
+| 9.  | [class-08](class-08)  |
+| 10.  | [class-09](class-09)  |
+| 11.  | [class-10](class-10)  |
+| 12.  | [class-11](class-11)  |
+| 13.  |[class-12](class-12)  |
+| 14.  | [class-13](class-13)  |
+
+
 
 
 
 # Code 301 - Intermediate Software Development
 
-class | link
------------- | -------------
-
+| class | link |
+| --- | --- |
 
 # Code 401 - Advanced Software Development
 
-class | link
------------- | -------------
+| class | link |
+| --- | --- |
