@@ -15,15 +15,22 @@ Table contane link
 
 
 # Code 102 - Intro to Software Development
-class | link
------ | -------
-1.    | [Grothminde](Growthmindset)
-2.    | [Summary](summarizes)
-3.    | [Read3](read3)
-4.    | [NewSummary](NewSummary)
-5.    | [CSScolor](CSScolor)
-6.    | [Loops](Loops)
-7.    | [Functions](Functions)
+
+
+| class | link |
+| --- | --- |
+| 1.  | [Grothminde](Growthmindset) |
+| 2.  | [Summary](summarizes) |
+| 3.  | [Read3](read3) |
+| 4.  | [NewSummary](NewSummary) |
+| 5.  | [CSScolor](CSScolor) |
+| 6.  | [Loops](Loops) |
+| 7.  | [Functions](Functions) |
+
+
+
+
+
 
 
 # Code 201 - Foundations of Software Development
