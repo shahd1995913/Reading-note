@@ -58,6 +58,7 @@ Table contane link
 | --- | --- |
 | 1.  | [know More](knowMore301) |
 | 2.  | [Class 1 ](class-1-301)  |
+| 3.  | [Class 2 ](class-2-301)  |
 
 
 
