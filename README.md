@@ -66,6 +66,8 @@ Table contane link
 | 8.  | [Class 7 ](class-7-301)  |
 | 9.  | [Class 8 ](class-8-301)  |
 | 10.  | [Class 9 ](class-9-301)  |
+| 11.  | [Class 9 ](class-10-301)  |
+
 
 # Code 401 - Advanced Software Development
 
