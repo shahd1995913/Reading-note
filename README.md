@@ -65,12 +65,12 @@ Table contane link
 | 7.  | [Class 6 ](class-6-301)  |
 | 8.  | [Class 7 ](class-7-301)  |
 | 9.  | [Class 8 ](class-8-301)  |
-| 10.  | [Class 9 ](class-9-301)  |
-| 11.  | [Class 10 ](class-10-301)  |
-| 12.  | [Class 11 ](class-11-301)  |
-| 13.  | [Class 12 ](class-12-301)  |
-| 14.  | [Class 13 ](class-13-301)  |
-| 15.  | [Class 14 ](class-14-301)  |
+| 10. | [Class 9 ](class-9-301)  |
+| 11. | [Class 10 ](class-10-301)|
+| 12. | [Class 11 ](class-11-301)|
+| 13. | [Class 12 ](class-12-301)|
+| 14. | [Class 13 ](class-13-301)|
+| 15. | [Class 14 ](class-14-301)|
 # Code 401 - Advanced Software Development
 
 | class | link |
