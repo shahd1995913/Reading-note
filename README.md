@@ -1,5 +1,3 @@
-# ReadingNote
-
 # Reading Notes
 
 ##  main page
@@ -7,14 +5,14 @@
 
 
 
-### My Name is Shahd Alkhatib study computer scine in yarmok university
+### My Name is Shahd Al Khatib study computer science at Yarmouk University.
 
 
 This site was built using [Shahd Pages]( https://shahd1995913.github.io/reading-note/).
 Table contane link
 
 
-# Code 102 - Intro to Software Development
+## Code 102 - Intro to Software Development
 
 
 | class | link |
@@ -29,7 +27,7 @@ Table contane link
 
 
 
-# Code 201 - Foundations of Software Development
+## Code 201 - Foundations of Software Development
 
 | class | link |
 | --- | --- |
@@ -52,7 +50,7 @@ Table contane link
 
 
 
-# Code 301 - Intermediate Software Development
+## Code 301 - Intermediate Software Development
 
 | class | link |
 | --- | --- |
@@ -73,7 +71,7 @@ Table contane link
 | 15. | [Class 14 ](class-14-301)|
 | 16. | [project idea ](project)|
 
-# Code 401 - Advanced Software Development
+## Code 401 - Advanced Software Development
 
 | class | link |
 | --- | --- |
