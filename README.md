@@ -76,4 +76,5 @@ Table contane link
 | class | link |
 | ---   | ---  |
 | 1.  | [class1-401](class1-401) |
+| 2.  | [class2-401](class2-401) |
 
