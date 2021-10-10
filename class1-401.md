@@ -21,12 +21,10 @@
 
 
 # Beginners Guide to Big O
+## My one Note about Big O 
 
-## Big O specifically describes the worst-case scenario, and can be used to describe the execution time required or the space used (e.g. in memory or on disk) by an algorithm.
-
-
-
-## 1. O(1) describes an algorithm that will always execute in the same time (or space) regardless of the size of the input data set.
-## 2. O(N) describes an algorithm whose performance will grow linearly and in direct proportion to the size of the input data set. 
-## 3. O(N²) represents an algorithm whose performance is directly proportional to the square of the size of the input data set
-## 4. O(2^N) denotes an algorithm whose growth doubles with each addition to the input data set.
+### 1. The lower the time the algorithm takes, the better its performance. Thus, equation O(1) is considered the best among them, and equation O(n!) is considered the worst of all.
+### 2. If I find the code's performance is O(n!) I'll try to find another solution that runs in less time.
+### 3.  If the code rating is O(1), this means that it is excellent, runs at a very high speed, and does not need any improvement. It also means that the expected code execution time is constant.
+### 4. If the code rating is O(n), then it is good and acceptable.
+### 5.  meant by the equation log n is when the value of the loop counter changes multiply or divided.O(log n)
