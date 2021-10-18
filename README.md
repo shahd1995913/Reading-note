@@ -70,7 +70,7 @@ Table contane link
 
 ## Code 401 - Advanced Software Development
 
-| class | link |
+| Class | Link |
 | ---   | ---  |
 | 1.  | [class1-401](class1-401) |
 | 2.  | [class2-401](class2-401) |
