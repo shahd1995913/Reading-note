@@ -1,6 +1,6 @@
 # Reading Notes
 
-### My Name is Shahd Al Khatib study computer science at Yarmouk University.
+###  My Name is Shahd Al Khatib study computer science at Yarmouk University.
 
 ### description : This page contains a set of summaries in the field of programming, a group of notes and summaries in the field of programming languages ​​as it appears in html, css, javascript, react app and python ,I do these summaries on a daily basis.
 
