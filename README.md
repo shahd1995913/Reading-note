@@ -87,4 +87,6 @@ Table contane link
 | 13.  | [class13-401](class13-401) |
 | 14.  | [class14-401](class14-401) |
 | 15.  | [tree](tree) |
+| 16.  | [mechine_learning](mechine_learning) |
+
 
