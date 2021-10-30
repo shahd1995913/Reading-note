@@ -1,14 +1,13 @@
 # Machine Learning Intro
-## - Machine learning is the practice of teaching computers how to learn patterns from data, often for making decisions or predictions.
- ## -  For true machine learning, the computer must be able to learn patterns that it's not explicitly programmed to identify.
-  ## - A task is a specific objective for your algorithms.
-  ## Type of Machine Learning :
-
-  ## A.  Supervised Learning
+## Machine learning is the practice of teaching computers how to learn patterns from data, often for making decisions or predictions.
+##  For true machine learning, the computer must be able to learn patterns that it's not explicitly programmed to identify.
+## A task is a specific objective for your algorithms.
+## Type of Machine Learning :
+## A.  Supervised Learning
 ### Supervised learning includes tasks for "labeled" data (i.e. you have a target variable).
 ## B.  Unsupervised Learning
 ### Unsupervised learning includes tasks for "unlabeled" data (i.e. you do not have a target variable).
- # 1. Bird's Eye View
+# 1. Bird's Eye View
 ## - must develop a reliable, systematic approach to solving problems.
 ## -  goal is to provide you with an end-to-end blueprint for applied machine learning, while keeping this as actionable and succinct as possible.
 # 2. Exploratory Analysis
