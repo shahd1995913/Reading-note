@@ -91,7 +91,7 @@ Table contane link
 | 17.  | [Web_scraping](Web_scraping) |
 | 18.  | [Cryptography](Cryptography) |
 | 19.  | [Automation](Automation) |
-
+| 20.  | [Django](Django) |
 
 
 
