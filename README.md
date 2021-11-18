@@ -92,7 +92,11 @@ Table contane link
 | 18.  | [Cryptography](Cryptography) |
 | 19.  | [Automation](Automation) |
 | 20.  | [Django](Django) |
-| 21.  | [class401-18](class401-18) |
+| 21.  | [DjangoModels](DjangoModels) |
+| 22.  | [CRUDandForms](CRUDandForms) |
+| 23.  | [CustomUser](CustomUser) |
+| 24.  | [class401-18](class401-18) |
+
 
 
 
