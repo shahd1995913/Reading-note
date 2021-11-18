@@ -17,8 +17,7 @@
 ### The URL configuration will redirect URLs with the format /catalog/book/<bookinstance_id>/renew/ to the function named renew_book_librarian() in views.py,
 ### And send the BookInstance id as the parameter named pk.
 ###  The pattern only matches if pk is a correctly formatted uuid.
-- [x] 
-- [x] 
+
 ## View
 - [x] the view has to render the default form when it is first called and then either re-render it with error messages if the data is invalid, or process the data and redirect to a new page if the data is valid.
 - [x] In order to perform these different actions, the view has to be able to know whether it is being called for the first time to render the default form, or a subsequent time to validate data.
