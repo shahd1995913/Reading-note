@@ -100,6 +100,10 @@ Table contane link
 | 26.  | [Docker](Docker) |
 | 27.  | [DSA](DSA) |
 | 28.  | [API_Deployment](API_Deployment) |
+| 29.  | [Authentication](Authentication) |
+| 30.  | [Permissions](Permissions) |
+
+
 
 
 
