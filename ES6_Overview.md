@@ -53,4 +53,4 @@
 6. A framework can solve these problems. 
 ### Next.js: The React Framework
 ### --> Enter Next.js, the React Framework. Next.js provides a solution to all of the above problems. But more importantly, it puts you and your team in the pit of success when building React applications.
-### 
+
