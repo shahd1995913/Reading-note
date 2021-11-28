@@ -102,6 +102,12 @@ Table contane link
 | 28.  | [API_Deployment](API_Deployment) |
 | 29.  | [Authentication](Authentication) |
 | 30.  | [Permissions](Permissions) |
+| 31.  | [ES6_Overview](ES6_Overview) |
+
+
+
+
+
 
 
 
