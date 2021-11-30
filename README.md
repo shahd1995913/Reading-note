@@ -105,15 +105,7 @@
 | 30.  | [Permissions](Permissions) |
 | 31.  | [ES6_Overview](ES6_Overview) |
 | 32.  | [Forms_React](Forms_React) |
-
-
-
-
-
-
-
-
-
+| 33.  | [NextjsApp](NextjsApp) |
 
 
 
