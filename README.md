@@ -4,9 +4,9 @@
 
 ### description : This page contains a set of summaries in the field of programming, a group of notes and summaries in the field of programming languages ​​as it appears in html, css, javascript, react app and python ,I do these summaries on a daily basis.
 
-## This site was built using [Shahd Pages in Github]( https://shahd1995913.github.io/reading-note/).
+## My  site in the Github  [Shahd Pages in Github]( https://github.com/shahd1995913).
 
-# Table of  content with a link
+# Table of  content with a link 
 
 
 ## Code 102 - Intro to Software Development
