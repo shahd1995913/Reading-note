@@ -1,3 +1,16 @@
+# Assets, Metadata, and CSS
+
+## Metadata
+### What if we wanted to modify the metadata of the page, such as the title HTML tag ?
+### --> title is part of the head HTML tag, so let's dive into how we can modify the head tag in a Next.js page.
+
+## Writing and Importing CSS
+### Next.js has built-in support for CSS and Sass which allows you to import .css and .scss files.
+
+### Using popular CSS libraries like Tailwind CSS is also supported.
+
+###  Next.js’s built-in support for CSS Modules and Sass.
+
 # Create a Next.js App
 ## To build a complete web application with React from scratch,
 ## there are many important details you need to consider:
