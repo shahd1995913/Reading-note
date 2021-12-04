@@ -106,7 +106,7 @@
 | 31.  | [ES6_Overview](ES6_Overview) |
 | 32.  | [Forms_React](Forms_React) |
 | 33.  | [NextjsApp](NextjsApp) |
-
+| 34.  | [Next_js](Next_js) |
 
 
 
