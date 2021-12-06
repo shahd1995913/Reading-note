@@ -1,9 +1,10 @@
-# Review at least one article from both “Ethics in the workplace” and “Ethics in Technology” sections below and write how each of them relates to ethics in technology.
+# 1.  Review at least one article from both “Ethics in the workplace” and “Ethics in Technology” sections below and write how each of them relates to ethics in technology.
 ## --> Ethics in the workplace and Ethics in Technology , The two are interrelated and complement each other because ethics within the work environment is important and ethics also at work and the use of modern technology is also important, so these two concepts are interconnected together.
-#  Do you agree or disagree with these articles?  
+#  2.  Do you agree or disagree with these articles?  
 ## --> yes , I am a gree
-# What stuck out to you specifically from each article?
+# 3.  What stuck out to you specifically from each article?
 ## --> When we are harmed in the work environment, we must take action. Honesty and honesty are very important in the work environment.
+
 # Code of Ethics
 # -- >  Code of Ethics
 ## 1. GENERAL ETHICAL PRINCIPLES.
@@ -15,7 +16,7 @@
 - [x]  In addition to a safe social environment, human well-being requires a safe natural environment. 
 ### 1.2 Avoid harm.
 - [x]  "harm" means negative consequences, especially when those consequences are significant and unjust.
-- [x]  Examples of harm include unjustified physical or mental injury, unjustified destruction or disclosure of information.
+- [x]  The  harm include unjustified physical or mental injury, unjustified destruction or disclosure of information.
 - [x]  Well-intended actions, including those that accomplish assigned duties, may lead to harm. 
 - [x] When that harm is unintended, those responsible are obliged to undo or mitigate the harm as much as possible.
 - [x]  Avoiding harm begins with careful consideration of potential impacts on all those affected by decisions.
@@ -24,7 +25,8 @@
 
 
 ### 1.3 Be honest and trustworthy.
-- [x]  Honesty is an essential component of trustworthiness. A computing professional should be transparent and provide full disclosure of all pertinent system capabilities.
+- [x]  Honesty is an essential component of trustworthiness.
+- [x] A computing professional should be transparent and provide full disclosure of all pertinent system capabilities.
 - [x]  Computing professionals should be honest about their qualifications, and about any limitations in their competence to complete a task.
 - [x]  Computing professionals should not misrepresent an organization's policies or procedures, and should not speak on behalf of an organization unless authorized to do so.
 
@@ -44,22 +46,22 @@
 - [x]  LinkedIn, for example, has a presence in China because it agreed to block certain online content.
 # --> Google and AI 
 ## Google Backtracks, Says Its AI Will Not Be Used for Weapons or Surveillance
-## 1. Google is committing to not using artificial intelligence for weapons or surveillance after employees protested the company’s involvement in Project Maven, a Pentagon pilot program that uses artificial intelligence to analyze drone footage. 
+### 1. Google is committing to not using artificial intelligence for weapons or surveillance after employees protested the company’s involvement in Project Maven, a Pentagon pilot program that uses artificial intelligence to analyze drone footage. 
 
-## 2. However, Google says it will continue to work with the United States military on cybersecurity, search and rescue, and other non-offensive projects.
+### 2.  Google says it will continue to work with the United States military on cybersecurity, search and rescue, and other non-offensive projects.
 
-## 3. Google CEO Sundar Pichai announced the change in a set of AI principles released today.
+### 3. Google CEO Sundar Pichai announced the change in a set of AI principles released today.
 
-## 4.  The principles are intended to govern Google’s use of artificial intelligence and are a response to employee pressure on the company to create guidelines for its use of AI.
+### 4.  The principles are intended to govern Google’s use of artificial intelligence and are a response to employee pressure on the company to create guidelines for its use of AI.
 
 # --> The code I’m still ashamed of
 ## ---> As developer, one of the last lines of defense against potentially dangerous and unethical practices.
 
-## --->  approaching a time where software will drive the vehicle that transports your family to soccer practice.
-## --->  There are already AI programs that help doctors diagnose disease.
-## ---> It’s not hard to imagine them recommending prescription drugs soon, too.
+### --->  approaching a time where software will drive the vehicle that transports your family to soccer practice.
+### --->  There are already AI programs that help doctors diagnose disease.
+### ---> It’s not hard to imagine them recommending prescription drugs soon, too.
 
-## --->The more software continues to take over every aspect of our lives, the more important it will be for us to take a stand and ensure that our ethics are ever-present in our code.
+### --->The more software continues to take over every aspect of our lives, the more important it will be for us to take a stand and ensure that our ethics are ever-present in our code.
 
 
 # Ethics in Technology
