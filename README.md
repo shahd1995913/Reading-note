@@ -108,6 +108,6 @@
 | 33.  | [NextjsApp](NextjsApp) |
 | 34.  | [Next_js](Next_js) |
 | 35.  | [Python](Python) |
-
+| 36.  | [Ethics](Ethics) |
 
 
